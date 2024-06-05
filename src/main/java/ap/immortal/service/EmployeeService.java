@@ -1,7 +1,6 @@
 package ap.immortal.service;
 
 import java.util.List;
-import java.util.Map;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -40,19 +39,9 @@ public class EmployeeService {
 		log.info("Successfully inserted : {} in Database",employee);
 	}
 	
-	public void updateEmployee(Integer employeeId, Map<String,String> requestParams) {
-		Employee employee=findEmployeeById(employeeId);		
-		for(Map.Entry<String, String> params : requestParams.entrySet()){
-			if(params.getKey().equalsIgnoreCase("firstName")) {
-				employee.setFirstName(params.getValue());		
-			}else if(params.getKey().equalsIgnoreCase("lastName")) {
-				employee.setLastName(params.getValue());
-			}else if(params.getKey().equalsIgnoreCase("email")) {
-				employee.setEmail(params.getValue());
-			}					
-		}		
-		insert(employee);
-		log.info("Successfully updated Employee : {} of Employee ID in Database",employee,employee.getId());
+	public Employee updateEmployee(Integer employeeId) {
+		Employee employee = findEmployeeById(employeeId);
+		return employee;
 	}
 	
 	public void deleteEmployee(Integer employeeId) {
