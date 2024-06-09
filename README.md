@@ -15,6 +15,17 @@ This project is a comprehensive demonstration of building a real-time web applic
 
 With this project, developers can gain hands-on experience in building real-time web applications using the Spring ecosystem. By incorporating best practices in web development, including MVC architecture, Thymeleaf as templating engines, and database interactions, the project serves as a valuable resource for understanding and implementing modern web application development techniques.
 
-CRUD Operarion:
+# CRUD Operations:
 
+# Show All Employee :
 ![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/All%20Employees%20.JPG)
+
+# Add Employee :
+![Add Employee](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/addEmployee.JPG)
+
+# Delete Empoyee :
+![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/deleteEmployee.JPG)
+![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/deleteEmployee.2JPG.JPG)
+
+# Update Employee :
+![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee.JPG)
