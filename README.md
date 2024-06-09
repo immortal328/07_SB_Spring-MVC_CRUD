@@ -13,4 +13,8 @@ This project is a comprehensive demonstration of building a real-time web applic
 7. **Error Handling**: Implementing comprehensive error handling mechanisms to gracefully manage exceptions and errors, providing users with informative error messages and enhancing overall application robustness.
 8. **Database Integration**: Leveraging database technologies such as MySQL for persistent application data storage, ensuring data consistency and durability.
 
-With this project, developers can gain hands-on experience in building real-time web applications using the Spring ecosystem. By incorporating best practices in web development, including MVC architecture, templating engines, and database interactions, the project serves as a valuable resource for understanding and implementing modern web application development techniques.
+With this project, developers can gain hands-on experience in building real-time web applications using the Spring ecosystem. By incorporating best practices in web development, including MVC architecture, Thymeleaf as templating engines, and database interactions, the project serves as a valuable resource for understanding and implementing modern web application development techniques.
+
+CRUD Operarion:
+
+![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/All%20Employees%20.JPG)
