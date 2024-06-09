@@ -24,8 +24,9 @@ With this project, developers can gain hands-on experience in building real-time
 ![Add Employee](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/addEmployee.JPG)
 
 # Delete Empoyee :
-![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/deleteEmployee.JPG)
+![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/deleteEmployees1%20.jpg)
 ![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/deleteEmployee.2JPG.JPG)
 
 # Update Employee :
+![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee1.JPG)
 ![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee.JPG)
