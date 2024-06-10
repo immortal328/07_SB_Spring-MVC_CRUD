@@ -29,4 +29,4 @@ With this project, developers can gain hands-on experience in building real-time
 
 # Update Employee :
 ![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee1.JPG)
-![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee.JPG)
+![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee2.JPG)
