@@ -1,4 +1,4 @@
-# Title: Real-Time Web Application Development with Spring Boot 3, Spring MVC, and Thymeleaf
+# Real-Time Web Application Development with Spring Boot 3, Spring MVC, and Thymeleaf
 
 # Description:
 This project is a comprehensive demonstration of building a real-time web application using cutting-edge technologies in the Spring ecosystem. Leveraging Spring Boot 3, Spring MVC, and Thymeleaf, the application showcases full database CRUD (Create, Read, Update, Delete) operations, providing users with a seamless and interactive experience.
