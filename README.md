@@ -22,7 +22,7 @@ With this project, developers can gain hands-on experience in building real-time
 
 # Add Employee :
 <div align="center">
-  ![Add Employee](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/addEmployee.JPG)  
+  <img width="33%" src="https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/addEmployee.JPG">  
 </div>
 
 
