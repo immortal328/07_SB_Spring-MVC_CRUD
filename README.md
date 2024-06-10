@@ -16,16 +16,11 @@ This project is a comprehensive demonstration of building a real-time web applic
 With this project, developers can gain hands-on experience in building real-time web applications using the Spring ecosystem. By incorporating best practices in web development, including MVC architecture, Thymeleaf as templating engines, and database interactions, the project serves as a valuable resource for understanding and implementing modern web application development techniques.
 
 # CRUD Operations:
-
 # Show All Employee :
-<div align="center">
-  <img width="33%" src="https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/All%20Employees%20.JPG">  
-</div>
+![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/All%20Employees%20.JPG)
 
 # Add Employee :
-<div align="center">
-  <img width="33%" src="https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/addEmployee.JPG">  
-</div>
+<div align="center"> <img width="33%" src="https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/addEmployee.JPG"> </div>
 
 
 # Delete Empoyee :
@@ -33,10 +28,5 @@ With this project, developers can gain hands-on experience in building real-time
 ![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/deleteEmployee.2JPG.JPG)
 
 # Update Employee :
-![Home Page Showing All Employees]()
-<div align="center">
-  <img width="33%" src="https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee1.JPG">  
-</div>
-<div align="center">
-  <img width="33%" src="https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee2.JPG">  
-</div>
+![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee1.JPG)
+<div align="center"> <img width="33%" src="https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee2.JPG"> </div>
