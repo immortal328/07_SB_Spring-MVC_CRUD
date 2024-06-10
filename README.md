@@ -18,7 +18,9 @@ With this project, developers can gain hands-on experience in building real-time
 # CRUD Operations:
 
 # Show All Employee :
-![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/All%20Employees%20.JPG)
+<div align="center">
+  <img width="33%" src="https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/All%20Employees%20.JPG">  
+</div>
 
 # Add Employee :
 <div align="center">
@@ -31,5 +33,10 @@ With this project, developers can gain hands-on experience in building real-time
 ![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/deleteEmployee.2JPG.JPG)
 
 # Update Employee :
-![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee1.JPG)
-![Home Page Showing All Employees](https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee2.JPG)
+![Home Page Showing All Employees]()
+<div align="center">
+  <img width="33%" src="https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee1.JPG">  
+</div>
+<div align="center">
+  <img width="33%" src="https://github.com/immortal328/Certificates/blob/main/Spring%20MVC%20CRUD/updateEmployee2.JPG">  
+</div>
